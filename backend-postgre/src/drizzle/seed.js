@@ -1,7 +1,7 @@
 import "dotenv/config";
 import { db } from "./db.js";
 import { users } from "./schema.js";
-import { logger } from "../libs/logger.js";
+import { logger } from "../lib/logger.js";
 
 const USERS = [
   {

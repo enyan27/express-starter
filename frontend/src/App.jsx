@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { api } from "./libs/axios";
+import { api } from "./lib/axios";
 
 const App = () => {
   useEffect(() => {

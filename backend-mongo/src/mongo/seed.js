@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 import "dotenv/config";
 import { connectDB } from "./db.js";
-import { logger } from "../libs/logger.js";
+import { logger } from "../lib/logger.js";
 import { User } from "../models/User.js";
 
 const USERS = [

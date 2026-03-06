@@ -5,14 +5,14 @@
 #### Backend (MongoDB)
 
 ```bash
-npm i cors dotenv express helmet mongodb mongoose morgan pino pino-pretty
+npm i dotenv express helmet mongodb mongoose morgan pino pino-pretty
 npm i -D nodemon
 ```
 
 #### Backend (PostgreSQL)
 
 ```bash
-npm i cors dotenv drizzle-orm express helmet morgan pg pino pino-pretty
+npm i dotenv drizzle-orm express helmet morgan pg pino pino-pretty
 npm i -D drizzle-kit nodemon
 ```
 
